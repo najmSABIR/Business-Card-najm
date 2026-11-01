@@ -1,0 +1,24 @@
+.card{
+    display: block; 
+    width: 320px;
+    margin: 100px auto;
+    padding: 32px;
+    border-bottom: 8px #ab8354 solid;
+    border-radius: 16px;
+    background-color:  #eaf4d3;
+    text-align: center;
+
+}
+
+img {
+    width: 180px;
+    border: 6px #ab8354 solid;
+    border-radius: 50% ;
+}
+
+
+.titles{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #17110d;
+}
